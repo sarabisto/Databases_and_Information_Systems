@@ -1,3 +1,3 @@
-# SQL Project
+# Databases and Information Systems
 
-Database Project on Postgres SQL for CS course
+Database Project on Postgres SQL for CS course, lecture notes, excercises
